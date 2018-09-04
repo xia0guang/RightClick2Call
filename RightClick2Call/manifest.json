@@ -1,7 +1,7 @@
 {
     "name": "Right Click 2 Call",
     "description": "Call selected number with Facetime(Mac only)",
-    "version": "0.1",
+    "version": "0.2",
     "permissions": ["contextMenus", "tabs"],
     "background": {
         "scripts": ["content.js"]
